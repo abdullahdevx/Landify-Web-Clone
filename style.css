@@ -98,10 +98,24 @@ Section 2 :
     border-radius: 10px;
 }
 
+.box{
+   border: 1px solid #00a19e8e;
+   border-radius: 7px;
+   height: 50%;
+   text-align: center;
+}
+
+.box1, .box3{
+    margin-bottom: 20px;
+}
 .sec2-btn{
     background-color: #E5F5F5;
     color: #00A19E;
     font-weight: 700;
+}
+h3{
+    color: #00A19E;
+    font-weight: 750;
 }
 
 .se-p1{
@@ -112,19 +126,28 @@ Section 2 :
 /* =================
 Section 3 :
 ===================== */
-
-.sec-3{
-   height: 50vh;
+.icons{
+    height: 60vh;
 }
 
 .same{
-    margin-top: 30%;
-    height: 60%;
+    height: 80px;
     width: 80px;
+    font-size: 25px;
     background-color: #00A19E;
-    border-radius: 100px;
+    border-radius: 200px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+}
+.text{
+    margin-left: 70px;
 }
 
+.inner-feature{
+    text-align: center;
+}
 /* =================
 Section 4 :
 ===================== */
@@ -143,4 +166,3 @@ Section 6 :
 /* =================
 Section 7 :
 ===================== */
-
