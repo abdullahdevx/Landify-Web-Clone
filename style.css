@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* =================
+NavBar
+===================== */
+a{
+    text-decoration: none !important;
+    color: black;
+}
+
+
+.home{
+    color: #00A19E;
+}
+
+button{
+    border: none;
+    border-radius: 5px;
+    background-color: #00A19E;
+    color: white;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+
+.nav-btn{
+   width: 12%;
+   height: 35%;
+   border-radius: 6px;
+}
+
+/* =================
+Banner Section :
+===================== */
+
+.section1{
+    background-color: #E7F6F6;
+    height: 100vh;
+}
+
+.br-btn2{
+    color: black;
+    background-color:#E7F6F6 ;
+}
+
+.sec-btn1{
+    margin-top: 25px;
+    margin-right: 2%;
+}
+
+.samebtn{
+    width: 30%;
+    height: 10%;
+    border-radius: 6px;
+}
+
+i{
+    color:#00A19E ;
+}
+
+.sec1-h1{
+    line-height: 55px;
+    font-size: 50px;
+    font-weight: 400;
+    margin-top: 66px;
+}
+
+.sec1-p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    line-height: 30px;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.box-p{
+   color: #00A19E;
+}
+
+span{
+    color: rgba(0, 0, 0, 0.596);
+}
+
+/* =================
+Section 2 :
+===================== */
+
+.section2{
+    margin-top: 4%;
+}
+
+
+.img-sex2{
+    border-radius: 10px;
+}
+
+.sec2-btn{
+    background-color: #E5F5F5;
+    color: #00A19E;
+    font-weight: 700;
+}
+
+.se-p1{
+    font-weight: 600;
+    font-size: 18px;
+}
+
+/* =================
+Section 3 :
+===================== */
+
+.sec-3{
+   height: 50vh;
+}
+
+.same{
+    margin-top: 30%;
+    height: 60%;
+    width: 80px;
+    background-color: #00A19E;
+    border-radius: 100px;
+}
+
+/* =================
+Section 4 :
+===================== */
+
+
+/* =================
+Section 5 :
+===================== */
+
+
+/* =================
+Section 6 :
+===================== */
+
+
+/* =================
+Section 7 :
+===================== */
+
