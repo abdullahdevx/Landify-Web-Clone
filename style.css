@@ -150,19 +150,21 @@ Section 3 :
 /* =================
 Section 4 :
 ===================== */
-
+.features{
+   background-color: #FDFDFD;
+}
 .inner-feature{
     text-align: center;
 }
 
 .inovation{
-    height: 80vh;
+    height: 86vh;
 }
 
 .click{
     background-color: #FCFEFE;
     border-radius: 20px;
-    box-shadow: 15px 15px 15px 15px  #F7F8F8;
+    box-shadow: 0px 0px 15px  #787c7c86;
 
 }
 .icon{
@@ -204,12 +206,85 @@ Section 4 :
 /* =================
 Section 5 :
 ===================== */
+.innersiv{
+    background-color: #00a19e71;
+    height: 60px;
+    width: 60px;
+    border-radius: 200px;
+}
 
+.Section5{
+    height: 75vh;
+    display: flex;
+    align-items: center;
+}
+.inner{  
+    border-radius: 15px;
+     box-shadow: 0px 0px 15px  #babebe60;
+}
 
+.a{
+    color: #00A19E;
+    font-weight: 600;
+}
+
+.samea{
+    background-color:#E6F0FF;
+    padding: 3px 10px;
+    border-radius: 10px;
+    font-weight: 500;
+    display: inline-block;
+    margin-top: 6px;
+    
+}
+
+.a1{
+     color: #237BFD;
+}
+.a2{
+  background-color: #E8F3EE;
+  color: #439D73;
+}
+.a3{
+ background-color: #E8F3EE;
+  color: #439D73;
+}
+
+.a4{
+ background-color: #F0F1F2;
+  color: #767E86;
+}
+
+.innerbox{
+    height: 120px;
+    width: 300px;
+    margin-top: 30px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 15px  #bfc5c56c;
+}
+
+.innertext{
+    padding-top:20px ;
+}
 /* =================
 Section 6 :
 ===================== */
+.icon6{
+    background-color: #00A19E;
+    width: 70px;
+    height: 70px;
+    border-radius: 15px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.inner6{
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px  #babebe60;
 
+}
 
 /* =================
 Section 7 :
